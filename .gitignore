@@ -107,7 +107,7 @@ venv.bak/
 .idea/
 
 # cached datasets - tensorflow
-data/
+data/*
 
 # saved trainings - tensorflow
-saves/
+saves/*
