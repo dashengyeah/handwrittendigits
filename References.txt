@@ -1,0 +1,6 @@
+#1 tensorflow's offical tutorial
+A Guide to TF Layers: Building a Convolutional Neural Network
+    https://www.tensorflow.org/tutorials/layers
+    
+#2 Python(TensorFlow框架)实现手写数字识别系统
+    https://blog.csdn.net/louishao/article/details/60867339
