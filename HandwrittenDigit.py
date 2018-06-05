@@ -135,7 +135,7 @@ with tf.Session() as sess:
 
 
     # Performance after 10000 optimization iterations
-    optimize(num_iterations=100)
+    optimize(num_iterations=1000)
     print_test_accuracy()
     savew_hl1 = layer_conv1["weights"].eval()
     saveb_hl1 = layer_conv1["biases"].eval()
