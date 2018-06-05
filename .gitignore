@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pycharm project data/
+idea/
+
+# cached datasets - tensorflow
+data/
+
+# saved trainings - tensorflow
+saves/
